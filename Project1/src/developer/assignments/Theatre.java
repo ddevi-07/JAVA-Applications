@@ -5,7 +5,7 @@ public class Theatre {
 	int movie_time;
 	
 	Theatre(String name, int time){
-		this.movieName=name;
+		this.movieName =name;
 		this.movie_time=time;
 	}
 	public static void main(String[] args) {

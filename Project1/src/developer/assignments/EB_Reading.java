@@ -14,7 +14,7 @@ public class EB_Reading {
 		public static void main(String[]args)
 		{
 		//Create instance	
-		EB_Reading assessor =new EB_Reading(100);
+		EB_Reading assessor = new EB_Reading(100);
 		assessor.reading();//Method calling
 		assessor.calculate();
 		}
