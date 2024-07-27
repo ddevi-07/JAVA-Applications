@@ -18,6 +18,7 @@ public class Theatre {
 		movie2.watch_movie();
 		
 	}
+	//Method definition
 	public void watch_movie() {
 		System.out.println("Watching "+movieName);
 		System.out.println("ShowTime is "+movie_time);

@@ -10,7 +10,7 @@ public class EB_Reading {
 		{
 		this.unit=unit;
 		}
-		//Main class
+		//Main  class
 		public static void main(String[]args)
 		{
 		//Create instance	
